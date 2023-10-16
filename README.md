@@ -97,7 +97,7 @@ Regardless of adherence to this guidelines, new asset listings will be ultimatel
     {
       "name": "String. Optional. This is for providing a unique name to each token. If none is given the token name will be 'CollectionName #TokenId'.",
       "image": "String. Required. This will be used to represent the token.",
-      "imageV2": "String. Optional. This can be used for collections with multiple visual representations(2D/3D). If provided it will display this image in the app."
+      "imageV2 or image_v2": "String. Optional. This can be used for collections with multiple visual representations(2D/3D). If provided it will display this image in the app."
     }
     ``` 
 
